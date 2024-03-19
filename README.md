@@ -1,4 +1,4 @@
-Blockchain Assignment - 1
+
 This code simulates a simplified blockchain system for a supply
 chain management system that tracks transactions among
 manufacturers, distributors, and clients. Key components and
