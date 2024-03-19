@@ -142,9 +142,5 @@ transaction.
 takes place at a time.
 6. Identifying the liar and penalizing his security deposit is
 handled by resolve_delivery_issues() function.
-Submitted by -
-2020A3PS0570H Aniketh Purackattu Sabu
-2020A3PS2213H Chahat Gupta
-2020A3PS0550H G Saikanth
-2020A7PS2087H Kartikay Dhall
-2021A3PS0809H Ananya Goyal
+
+
